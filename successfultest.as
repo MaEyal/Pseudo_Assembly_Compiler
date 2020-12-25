@@ -1,4 +1,4 @@
-; file official.as
+; file successfultest.as
 
 mov #-5, 		 MAIN
 mov #5, r3
